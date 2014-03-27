@@ -1,6 +1,20 @@
-*.class
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package name;
+/**
+ *
+ * @author 041402493
+ */
+public class Name {
 
-# Package Files #
-*.jar
-*.war
-*.ear
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // name
+        System.out.print ("Hi! my name is Gerald.");
+        
+    }
+}
