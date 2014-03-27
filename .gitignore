@@ -2,6 +2,6 @@
 	<script type="text/javascript">
 	alert("Hi! My name is Gerald.");;
 	alert("Hello, I am Connie");
-	alert("Im here LOL Jean was here");
+	alert("Jean is here");
 	</script>
 </html>
