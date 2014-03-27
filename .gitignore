@@ -6,5 +6,6 @@
 	name=prompt("Enter your name.", "");
 	alert("Welcome "name"!");
 	alert("Hello, I am Connie");
+	alert("James");
 	</script>
 </html>
