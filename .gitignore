@@ -1,20 +1,9 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-package name;
-/**
- *
- * @author 041402493
- */
-public class Name {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // name
-        System.out.print ("Hi! my name is Gerald.");
-        
-    }
-}
+<html>
+	<script type="text/javascript">
+	var name;
+	
+	alert("Hi! My name is Gerald.");
+	name=prompt("Enter your name.", "");
+	alert("Welcome "name"!");
+	</script>
+</html>
