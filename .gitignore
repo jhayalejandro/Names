@@ -1,10 +1,7 @@
 <html>
 	<script type="text/javascript">
-	var name;
-	
-	alert("Hi! My name is Gerald.");
-	name=prompt("Enter your name.", "");
-	alert("Welcome "name"!");
+	alert("Hi! My name is Gerald.");;
 	alert("Hello, I am Connie");
+	alert("Im here LOL Jean was here");
 	</script>
 </html>
